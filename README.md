@@ -1,5 +1,7 @@
 # Hi there 👋
 
+## I'm Filippo Chirigoni
+
 ### Something about me:
     🏙️ From Genoa, Italy
     
