@@ -2,13 +2,13 @@
 
 ## I'm Filippo Chirigoni
 
+### How to contact me:
+:e-mail: Email: chirigoni05@hotmail.it
+
 ### Something about me:
     🏙️ From Genoa, Italy
     
     🎓 Computer Science Student at UNIGE
-
-### How to contact me:
-:e-mail: Email: chirigoni05@hotmail.it
     
 ### Known Languages:
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
