@@ -8,7 +8,11 @@
 ### Something about me:
     🏙️ From Genoa, Italy
     
-    🎓 Computer Science Student at UNIGE
+    🎓 Computer Science Degree at UNIGE
+    
+    🐱‍💻 Full-Stack Developer
+    
+    🧊 Blockchain Developer
     
 ### Known Languages:
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
