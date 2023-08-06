@@ -2,9 +2,6 @@
 
 ## I'm Filippo Chirigoni
 
-### How to contact me:
-:e-mail: Email: chirigoni05@hotmail.it
-
 ### Something about me:
     🏙️ From Genoa, Italy
     
